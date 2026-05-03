@@ -1,9 +1,7 @@
 streamlit==1.32.0
-streamlit-webrtc==0.47.5
+streamlit-webrtc
 setuptools
 opencv-python-headless
-tensorflow-cpu==2.15.0
-tensorflow-hub==0.16.1
+tensorflow-cpu
+tensorflow-hub
 numpy<2.0.0
-tornado==6.3.3
-protobuf==3.20.3
