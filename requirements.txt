@@ -1,6 +1,7 @@
-streamlit==1.32.0
+streamlit
 streamlit-webrtc
-setuptools
+# Force setuptools to a version before the Feb 2026 removal
+setuptools<82.0.0
 opencv-python-headless
 tensorflow
 tensorflow-hub
